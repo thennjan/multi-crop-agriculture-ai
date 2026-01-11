@@ -110,10 +110,3 @@ streamlit run app/app.py
   - Good R² score indicating strong predictive performance
   - Model captures relationships between environmental factors and yield
 
-
-
-
-
----
-
-## 📁 Project Structure

@@ -91,20 +91,8 @@ Datasets were preprocessed, cleaned, and split into training and testing sets.
 ![Risk Assessment](screenshots/risk_assessment.png)
 
 
----
 
-##  How to Run the Project
-1. Clone the repository
-```bash
-git clone https://github.com/thennjan/multi-crop-agriculture-ai.git
-
-pip install -r requirements.txt
-
-streamlit run app/app.py
-
----
-
-##  Results
+###  Results
 - Disease Detection Accuracy: Approximately 90% on test data
 - Yield Prediction:
   - Good R² score indicating strong predictive performance
